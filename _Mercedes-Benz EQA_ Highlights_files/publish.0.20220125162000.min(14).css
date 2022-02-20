@@ -1,0 +1,24 @@
+.youtube__base{width:100%;height:0;padding-bottom:56.25%;position:relative}
+.youtube__base iframe,.youtube__base picture{position:absolute;top:0;left:0;bottom:0;right:0}
+.youtube__base iframe>img,.youtube__base picture>img{width:100%}
+.youtube__container{position:absolute;width:100%;height:100%}
+.youtube__playButton{-webkit-box-shadow:none;box-shadow:none;background-color:transparent;-webkit-transition:none;transition:none;border:0;border-radius:0;outline:0;padding:0;margin:0;display:inline-block;text-decoration:none;width:56px;height:35px;padding-top:8px;left:calc(50% - 28px);top:calc(50% - 18px);background:rgba(0,0,0,0.7);display:none}
+.youtube__playButton:before{font-size:19px;display:block;color:#fff;font-family:"DaimlerIcons" !important;speak:none;font-style:normal;font-weight:normal;font-variant:normal;text-transform:none;line-height:1;-webkit-font-smoothing:antialiased;-moz-osx-font-smoothing:grayscale;content:"";opacity:1}
+.youtube__playButton::before{left:23px;top:8px}
+.youtube__playButton:before{width:0}
+.youtube__playButton:hover{background:rgba(0,0,0,0.9)}
+@media(min-width:768px){.youtube__playButton{-webkit-box-shadow:none;box-shadow:none;background-color:transparent;-webkit-transition:none;transition:none;border:0;border-radius:0;outline:0;padding:0;margin:0;display:inline-block;text-decoration:none;width:78px;height:50px;padding-top:12px;left:calc(50% - 39px);top:calc(50% - 25px);background:rgba(0,0,0,0.7)}
+.youtube__playButton:before{font-size:26px;display:block;color:#fff;font-family:"DaimlerIcons" !important;speak:none;font-style:normal;font-weight:normal;font-variant:normal;text-transform:none;line-height:1;-webkit-font-smoothing:antialiased;-moz-osx-font-smoothing:grayscale;content:"";opacity:1}
+.youtube__playButton::before{left:32px;top:12px}
+.youtube__playButton:before{width:0}
+.youtube__playButton:hover{background:rgba(0,0,0,0.9)}
+}
+@media(min-width:1280px){.youtube__playButton{-webkit-box-shadow:none;box-shadow:none;background-color:transparent;-webkit-transition:none;transition:none;border:0;border-radius:0;outline:0;padding:0;margin:0;display:inline-block;text-decoration:none;width:102px;height:65px;padding-top:16px;left:calc(50% - 51px);top:calc(50% - 32px);background:rgba(0,0,0,0.7)}
+.youtube__playButton:before{font-size:32px;display:block;color:#fff;font-family:"DaimlerIcons" !important;speak:none;font-style:normal;font-weight:normal;font-variant:normal;text-transform:none;line-height:1;-webkit-font-smoothing:antialiased;-moz-osx-font-smoothing:grayscale;content:"";opacity:1}
+.youtube__playButton::before{left:43px;top:17px}
+.youtube__playButton:before{width:0}
+.youtube__playButton:hover{background:rgba(0,0,0,0.9)}
+}
+.vjs-default-skin:hover .youtube__playButton{background:rgba(0,0,0,0.7);-webkit-box-shadow:none;box-shadow:none}
+.youtube__base--is-ready .youtube__playButton{display:block}
+.youtube__thumbnail{width:100%;height:100%}

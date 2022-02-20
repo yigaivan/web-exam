@@ -1,0 +1,336 @@
+ *{
+     margin: 0;
+     padding: 0;
+ }
+ .main {  
+     width: 100%;
+     height: 109vh;
+     background-image: url(./10ooo3.jpeg);
+     background-position: center;
+     background-size: cover;
+     }
+
+h2  {
+    color: orangered;
+    font-size: 50px;
+    font-family: Arial;
+    padding-left: 20px;
+    float: left;
+    padding-top: 10px;
+}
+.menu {
+    float: left;
+    padding-top: 10px;
+    padding-bottom: 20px;
+
+}
+
+ul{
+    float: left;
+    display: flex;
+    justify-content: center;
+     align-items: center;
+}
+ ul li {
+     list-style: none;
+     margin-left: 70px;
+     margin-top: 27px;
+     font-size: 14px;
+     color: white;
+     text-decoration: none;
+     margin-right: 80px;
+
+}
+a {
+      color: orangered;
+      text-decoration: none;
+    
+}
+ a :hover{
+     color: orangered;
+ }
+ .search{
+     width: 330px;
+     float: left;
+     margin-left: 270px;
+     margin-top: 50px;
+
+ }
+ .srch {
+    
+     font-family: 'Times New Roman';
+     width: 200px;
+     height: 40px;
+     background: transparent;
+     border: 0.5px solid orangered;
+     color: white;
+     border-right: none;
+     font-size: 16px;
+     float: letf;
+     border-bottom-left-radius: 5px;
+     border-top-left-radius: 5px;
+ }
+.btn {
+     
+    width: 100px;
+    height: 40px;
+    background: rgb(241, 82, 23);
+    border:2px solid orangered ;
+    margin-top: 13px;
+    color: white;
+    font-size: 15px;
+    border-bottom-right-radius: 5px;
+    border-top-right-radius: 5px;
+
+} 
+.content {
+    width: 1200px;
+    height: auto;
+    margin: auto;
+
+    position: relative;
+    float: right;
+    margin-top: 150px;
+}
+p{
+  padding-left: 20px;
+  padding-bottom: 25px;
+  font-family: Arial;
+  letter-spacing: 1.5px;
+  line-height: 30px;
+   
+}
+
+ h1 {
+     font-family: 'Times New Roman';
+     font-size: 50px;
+     padding-left: 20px;
+     letter-spacing: 2px;
+     color: white;
+ }
+
+ .cn {
+      width: 160px;
+      height: 40px;
+      background-color: rgb(17, 17, 16);
+      border-color: orangered;
+      margin-bottom: 10px;
+      margin-left: 20px;
+      font-size: 18px;
+      border-radius: 10px;
+    
+ } 
+
+ .cn :hover {
+     color: white;
+ }
+ span {
+     color: orangered;
+ }
+ p {
+     color: white;
+ }
+ .main2 {
+     font-family: 'Times New Roman';
+     float: letf;
+     display: left;
+     justify-content: center;
+     background-color: rgb(99, 139, 161);
+
+
+ }
+ h3 {
+     font-size: 25px;
+     font-family: 'Times New Roman';
+     color: orangered;
+ }
+ }
+ .big {
+     float: center;
+     background-color: rgb(212, 205, 196);
+     
+ }
+ .LOVE {
+      background: url(./10ooo3.jpeg);
+      margin-top: 300px;
+ }
+ .cars {
+     background-color: rgb(99, 139, 161);
+ }
+ .form{
+     width: 240px;
+     height: 380px;
+     background-color: rgb(99, 139, 161);
+     position: absolute;
+     top: 200px;
+     left: 150px;
+     right: 200px;
+     border-radius: 10px;
+     padding: 75px;
+     
+     
+ }
+.fill{
+    font-size: 25px;
+    font-family: Arial;
+    font-weight: bolder;
+    
+}
+.box {
+     width: 300px;
+     height: 25px;
+    border-radius: 10px;
+    margin-bottom: 15px;
+    border-color: orangered;
+    font size : 20px;
+    
+    }
+    
+
+.msg {
+    width: 250px;
+    height: 200px;
+    border-color: orangered;
+}
+.send {
+    width: 160px;
+    height: 40px;
+    background-color: rgb(250, 250, 227);
+    border-color: orangered;
+    margin-bottom: 10px;
+    margin-left: 20px;
+    font-size: 18px;
+    border-radius: 10px;
+
+  
+}
+.send:hover{  
+    color: white;
+}
+.form2 {
+    width: 240px;
+    height: 380px;
+    background-color:rgb(99, 139, 161);
+    position: absolute;
+    top: 200px;
+    left: 900px;
+    border-radius: 10px;
+    padding: 75px;
+    padding-left: 50px;
+    
+}
+.social {
+    display: flex;
+    justify-content: center;
+    padding-left: 900px;
+    align-items: center;
+    float: left;
+    font-size: 50px;
+    display: inline;
+    
+}
+.fa-brands {
+     color: rgb(252, 245, 245);
+}
+.social3 {
+    background-color:rgb(99, 139, 161);
+    height: 50px;
+}
+.social3 a {
+    display:inline ;
+    font-size: 50px;
+}
+.social4 {
+    width: 500px;
+    height: 300px;
+    display: flex;
+    justify-content: center;
+    float: left;
+    font-size: 50px;
+    background: url(./10ooo3.jpeg);
+    padding: 250px;
+    padding-left: 600px;
+
+}
+.social4 a {
+     margin-top: 400px;
+     padding-top: 10px;
+     justify-content: center;
+     padding-right: 100px;
+    
+     
+}
+
+
+
+}
+.
+header {
+    margin-top: 20px;
+    font-family: Arial;
+    font-size: 15px;
+}
+.ford {
+    padding-left: 150px;
+}
+.ford img {
+    margin-bottom: 50px;
+}
+ .jeep {
+     padding-left: 100px;
+ }
+ .social10 {
+
+     background-color: rgb(248, 239, 239) 50% ;
+     display: flex;
+     justify-content: center;
+     color: rgb(206, 168, 231);
+     padding-right: 80px;
+     font-size: 50px;
+ }
+ .social10 a {
+     padding: 50px;
+     padding-bottom: 120px;
+     
+ }
+ .social20 {
+     padding-left: 240px;
+     padding-top: 50px;
+    
+ }
+
+ .social20 a {
+     font-size: 50px;
+     display: inline;
+     padding-right: 100px;
+ }
+ .four {
+      background: url(./00-mercedes-benz-design-g-class-2018-facelift-interior-2560x1440-2560x1440.webp);
+      padding-top: 30px;
+ }
+ .four h2 {
+     font-size: 15px;
+     font-weight: bold;
+     font-family: Arial;
+ }
+ 
+ 
+ .lastform button {
+     float: right;
+ }
+ .last {
+   padding-left: 600px;
+ }
+ .chev {
+    padding-right: 600px;
+ }
+ .jeep {
+    
+ }
+ .ford {
+     padding-right: 400px;
+     
+ }
+.toyota {
+   padding-right: 700px;
+}

@@ -1,0 +1,33 @@
+.disclaimer__base{display:-webkit-box;display:-ms-flexbox;display:flex;-ms-flex-wrap:wrap;flex-wrap:wrap;margin-right:-1.7361%;margin-left:-1.7361%}
+@media(min-width:480px){.disclaimer__base{margin-right:-1.11605%;margin-left:-1.11605%}
+}
+@media(min-width:768px){.disclaimer__base{margin-right:-9px;margin-left:-9px}
+}
+@media(min-width:1024px){.disclaimer__base{margin-right:-9px;margin-left:-9px}
+}
+@media(min-width:1280px){.disclaimer__base{margin-right:-11px;margin-left:-11px}
+}
+@media(min-width:1440px){.disclaimer__base{margin-right:-14px;margin-left:-14px}
+}
+.disclaimer__text{position:relative;width:100%;padding-right:1.7361%;padding-left:1.7361%;font-size:.875rem;font-family:"MBCorpoSTitle-Regular-Web","DaimlerCS-Regular",Helvetica,Arial,sans-serif;line-height:1.28571;padding-top:.04271em;padding-bottom:.19571em;color:#999;margin-top:10px;padding-top:0}
+@media(min-width:480px){.disclaimer__text{padding-right:1.11605%;padding-left:1.11605%}
+}
+@media(min-width:768px){.disclaimer__text{padding-right:9px;padding-left:9px}
+}
+@media(min-width:1024px){.disclaimer__text{padding-right:9px;padding-left:9px}
+}
+@media(min-width:1280px){.disclaimer__text{padding-right:11px;padding-left:11px}
+}
+@media(min-width:1440px){.disclaimer__text{padding-right:14px;padding-left:14px}
+}
+@media(max-width:479px){.disclaimer__text{-webkit-box-flex:0;-ms-flex:0 0 calc(83.33333% + 6.9444%);flex:0 0 calc(83.33333% + 6.9444%);max-width:calc(83.33333% + 6.9444%);margin-left:calc(8.33333% - 3.4722%)}
+.rtl .disclaimer__text{/*!rtl:begin:ignore*/margin-left:0;margin-right:calc(8.33333% - 3.4722%);/*!rtl:end:ignore*/}
+}
+@media(min-width:480px) and (max-width:767px){.disclaimer__text{-webkit-box-flex:0;-ms-flex:0 0 calc(83.33333% + 4.4642%);flex:0 0 calc(83.33333% + 4.4642%);max-width:calc(83.33333% + 4.4642%);margin-left:calc(8.33333% - 2.2321%)}
+.rtl .disclaimer__text{/*!rtl:begin:ignore*/margin-left:0;margin-right:calc(8.33333% - 2.2321%);/*!rtl:end:ignore*/}
+}
+@media(min-width:768px){.disclaimer__text{-webkit-box-flex:0;-ms-flex:0 0 100%;flex:0 0 100%;max-width:100%}
+}
+.pitextimage__base .disclaimer__text{font-size:.875rem;font-family:"MBCorpoSTitle-Regular-Web","DaimlerCS-Regular",Helvetica,Arial,sans-serif;line-height:1.28571;padding-top:.04271em;padding-bottom:.19571em;margin-top:2em}
+.pitextimage__base--no-media .disclaimer__text{font-size:.875rem;font-family:"MBCorpoSTitle-Regular-Web","DaimlerCS-Regular",Helvetica,Arial,sans-serif;line-height:1.28571;padding-top:.04271em;padding-bottom:.19571em;margin-top:.57143em}
+.pi__content .productinfofoldingtable .disclaimer__text{-webkit-box-flex:0;-ms-flex:0 0 100%;flex:0 0 100%;max-width:100%;margin-left:0}
